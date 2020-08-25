@@ -1,0 +1,5 @@
+version: "3"
+services:
+    codex-builder:
+        image: ajslater/codex-builder
+        build: .
