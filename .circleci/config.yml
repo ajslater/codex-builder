@@ -1,7 +1,6 @@
 executors:
     docker-publisher:
-        machine:
-            docker_layer_caching: true
+        machine: true
 jobs:
     build:
         executor: docker-publisher
