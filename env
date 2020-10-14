@@ -1,4 +1,4 @@
 REPO=ajslater/codex-builder
 IMAGE=ajslater/codex-builder
 BASE_VERSION=focal
-PKG_VERSION=1.1.0
+PKG_VERSION=1.2.0
