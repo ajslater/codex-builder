@@ -27,7 +27,6 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
   libyaml-dev \
   python3-pip \
   python3-venv \
-  rustc \
   shellcheck \
   unrar \
   zlib1g-dev \
