@@ -1,4 +1,0 @@
-REPO=ajslater/codex-builder
-IMAGE=ajslater/codex-builder
-BASE_VERSION=groovy
-PKG_VERSION=1.4.0
