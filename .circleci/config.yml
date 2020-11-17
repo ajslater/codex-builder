@@ -32,7 +32,7 @@ jobs:
           name: Build & Push
 version: 2.1
 workflows:
-  build-deploy:
+  main:
     jobs:
       - build:
           filters:
